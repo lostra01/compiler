@@ -5,9 +5,13 @@
     "@astrojs/compiler": "0.9.2"
   },
   "changesets": [
+    "perfect-chefs-invite",
+    "six-apes-laugh",
     "tasty-garlics-call",
     "wicked-forks-do",
     "wise-shrimps-knock",
-    "yellow-numbers-leave"
+    "yellow-kids-walk",
+    "yellow-numbers-leave",
+    "young-masks-cover"
   ]
 }

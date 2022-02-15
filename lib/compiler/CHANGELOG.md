@@ -1,5 +1,14 @@
 # @astrojs/compiler
 
+## 0.11.0-next.1
+
+### Patch Changes
+
+- 9d789c9: Fix handling of nested template literals inside of expressions
+- 5fa9e53: Fix handling of special characters inside of expressions
+- 8aaa956: Formalize support for magic `data-astro-raw` attribute with new, official `is:raw` directive
+- c698350: Improve MathML support. `{}` inside of `<math>` is now treated as raw text rather than an expression construct.
+
 ## 0.11.0-next.0
 
 ### Minor Changes
